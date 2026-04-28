@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "thalamus-ai-web"
+  },
+  "targets": {
+    "thalamus-ai-web": {
+      "hosting": {
+        "main": [
+          "thalamus-ai-web"
+        ],
+        "www-redirect": [
+          "thalamus-ai-web-www"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
